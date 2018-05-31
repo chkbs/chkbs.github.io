@@ -1,5 +1,5 @@
 ---
-permalink: /blot/
+permalink: /blog/
 title: "Blog"
 author_profile: true
 redirect_from: 
@@ -7,10 +7,17 @@ redirect_from:
   - /blog.html
 ---
 
-{% include base_path %}
+# Locations of key files/directories
 
-Education
-======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Basic config options: _config.yml
+* Top navigation bar config: _data/navigation.yml
+* Single pages: _pages/
+* Collections of pages are .md or .html files in:
+  * _publications/
+  * _portfolio/
+  * _posts/
+  * _teaching/
+  * _talks/
+* Footer: _includes/footer.html
+* Static files (like PDFs): /files/
+* Profile image (can set in _config.yml): images/profile.png
