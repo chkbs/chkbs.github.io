@@ -6,7 +6,9 @@ title_separator: "-"
 name: "Christopher Küster"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 repository: "chkbs/chkbs.github.io"
-
+breadcrumbs: false # true, false (default)
+words_per_minute: 160
+read_more: "enabled" # if enabled, adds "Read more" links to excerpts
 
 # Site Author
 author:
