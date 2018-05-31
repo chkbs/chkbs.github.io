@@ -14,7 +14,7 @@ read_more: "enabled" # if enabled, adds "Read more" links to excerpts
 author:
   name: "Christopher Küster"
   avatar: "images/profile.png"
-  bio: "Your biography for the left-hand sidebar"
+  bio: "R and Python enthusiast"
   location: "Munich"
   employer:
 
