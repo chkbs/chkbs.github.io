@@ -11,7 +11,7 @@ repository: "chkbs/chkbs.github.io"
 # Site Author
 author:
   name: "Christopher Küster"
-  avatar: "profile.png"
+  avatar: "/images/profile.png"
   bio: "Your biography for the left-hand sidebar"
   location: "Munich"
   employer:
