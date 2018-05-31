@@ -4,4 +4,12 @@ minimal_mistakes_skin     : "dirt"
 title                     : "Machine Learning"
 title_separator           : "-"
 name                      : "Christopher Küster"
-baseurl                   : "/" # the subpath of your site, e.g. "/blog"
+# baseurl                   : "/" # the subpath of your site, e.g. "/blog"
+
+
+# Site Author
+author:
+  name                    : "Christopher Küster"
+  avatar                  : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio                     : "I am an amazing person."
+location                  : "Somewhere"
