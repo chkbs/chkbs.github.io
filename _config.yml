@@ -4,7 +4,7 @@ minimal_mistakes_skin     : "dirt"
 title                     : "Machine Learning"
 title_separator           : "-"
 name                      : "Christopher Küster"
-# baseurl                   : "/" # the subpath of your site, e.g. "/blog"
+baseurl                   : "/about.md" # the subpath of your site, e.g. "/blog"
 
 
 # Site Author
