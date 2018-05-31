@@ -1,19 +1,21 @@
 remote_theme              : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin     : "dirt"
+minimal_mistakes_skin     : "air"
 
 title                     : "Machine Learning"
 title_separator           : "-"
 name                      : "Christopher Küster"
 baseurl                   : "" # the subpath of your site, e.g. "/blog"
-repository               : "chkbs/chkbs.github.io"
+repository                : "chkbs/chkbs.github.io"
 
 
 # Site Author
 author:
   name                    : "Christopher Küster"
-  avatar                  : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio                     : "I am an amazing person."
-location                  : "Somewhere"
+  avatar                  : "profile.png"
+  bio                     : "Your biography for the left-hand sidebar"
+  location                : "Munich"
+  employer                :
+
 
 
 include:
