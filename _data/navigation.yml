@@ -3,3 +3,6 @@
 main:
   - title: "Regression"
     url: /regression/
+    
+  - title: "Blog"
+    url: /blog/
