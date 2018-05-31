@@ -22,6 +22,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - images
 
 
 # Defaults
