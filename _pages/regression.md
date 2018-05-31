@@ -7,6 +7,6 @@ redirect_from:
   - /regression.html
 ---
 
-# Locations of key files/directories
+### Linear regression
 
 New text
