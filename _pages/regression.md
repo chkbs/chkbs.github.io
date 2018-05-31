@@ -7,6 +7,8 @@ redirect_from:
   - /regression.html
 ---
 
+Additional information about regression models
+
 ### Linear regression
 
 New text
