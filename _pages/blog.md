@@ -8,3 +8,7 @@ redirect_from:
 ---
 
 # Blog page
+
+```{python}
+print("HI")
+```
