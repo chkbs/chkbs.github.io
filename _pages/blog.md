@@ -9,6 +9,6 @@ redirect_from:
 
 # Blog page
 
-```{python}
+```python
 print("HI")
 ```
